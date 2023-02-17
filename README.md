@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaintlyTea
 - 👀 I’m interested in everything that is usefull
-- 🌱 I’m currently learning C# with Access
-- 💞️ I’m looking to collaborate on idk
+- 🌱 I’m currently learning Scala
+- 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me...
 
 <!---
